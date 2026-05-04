@@ -1,0 +1,101 @@
+Entity_Name,Program_Type,Legacy_ID,Modern_ID,Claim_Status,Total_Meals,Total_Requested,Projected_Audit_Risk,Pending_Payment_Value,Actual_CAPPS_Disbursement,Budget_Variance,Reconciliation_Status
+Texas School District 4,CACFP,CE-9004,ORG-1004,Approved,2960,"7,400",0,0,"7,327.20",72.8,FLAG: Payment Shortfall
+Texas School District 8,CACFP,CE-9008,ORG-1008,Approved,2256,"5,640",0,0,"5,608.91",31.09,FLAG: Payment Shortfall
+Texas School District 10,CACFP,CE-9010,ORG-1010,Approved,3389,"8,472.50",0,0,"8,419.62",52.88,FLAG: Payment Shortfall
+Texas School District 11,CACFP,CE-9011,ORG-1011,Approved,2514,"6,285",0,0,"6,268.94",16.06,FLAG: Payment Shortfall
+Texas School District 13,CACFP,CE-9013,ORG-1013,Approved,3714,"9,285",0,0,"9,256.37",28.63,FLAG: Payment Shortfall
+Texas School District 39,CACFP,CE-9039,ORG-1039,Approved,1567,"3,917.50",0,0,"3,875.93",41.57,FLAG: Payment Shortfall
+Texas School District 40,CACFP,CE-9040,ORG-1040,Approved,1333,"3,332.50",0,0,"3,286.65",45.85,FLAG: Payment Shortfall
+Texas School District 47,CACFP,CE-9047,ORG-1047,Approved,1131,"2,827.50",0,0,"2,786.63",40.87,FLAG: Payment Shortfall
+Texas School District 50,CACFP,CE-9050,ORG-1050,Approved,4123,"10,307.50",0,0,"10,265.64",41.86,FLAG: Payment Shortfall
+Texas School District 52,CACFP,CE-9052,ORG-1052,Approved,424,"1,060",0,0,"1,044.38",15.62,FLAG: Payment Shortfall
+Texas School District 58,CACFP,CE-9058,ORG-1058,Approved,451,"1,127.50",0,0,"1,113.61",13.89,FLAG: Payment Shortfall
+Texas School District 60,CACFP,CE-9060,ORG-1060,Approved,1883,"4,707.50",357.5,0,"4,651.14",56.36,FLAG: Payment Shortfall
+Texas School District 61,CACFP,CE-9061,ORG-1061,Approved,1623,"4,057.50",0,0,"4,027.99",29.51,FLAG: Payment Shortfall
+Texas School District 64,CACFP,CE-9064,ORG-1064,Approved,2649,"6,622.50",0,0,"6,590.87",31.63,FLAG: Payment Shortfall
+Texas School District 78,CACFP,CE-9078,ORG-1078,Approved,1143,"2,857.50",0,0,"2,852.11",5.39,FLAG: Payment Shortfall
+Texas School District 80,CACFP,CE-9080,ORG-1080,Approved,3188,"7,970",0,0,"7,886.39",83.61,FLAG: Payment Shortfall
+Texas School District 85,CACFP,CE-9085,ORG-1085,Approved,1353,"3,382.50",0,0,"3,343.32",39.18,FLAG: Payment Shortfall
+Texas School District 0,CACFP,CE-9000,ORG-1000,Denied,2908,"7,270",0,0,0,"7,270",Reconciled
+Texas School District 19,CACFP,CE-9019,ORG-1019,Denied,3575,"8,937.50",0,0,0,"8,937.50",Reconciled
+Texas School District 3,CACFP,CE-9003,ORG-1003,Pending Review,1534,"3,835",0,"3,835",0,"3,835",ESCALATE: Review Bottleneck
+Texas School District 12,CACFP,CE-9012,ORG-1012,Pending Review,5282,"13,205","1,182.50","13,205",0,"13,205",ESCALATE: Review Bottleneck
+Texas School District 41,CACFP,CE-9041,ORG-1041,Pending Review,2316,"5,790",0,"5,790",0,"5,790",ESCALATE: Review Bottleneck
+Texas School District 54,CACFP,CE-9054,ORG-1054,Pending Review,901,"2,252.50",0,"2,252.50",0,"2,252.50",ESCALATE: Review Bottleneck
+Texas School District 84,CACFP,CE-9084,ORG-1084,Pending Review,1985,"4,962.50",0,"4,962.50",0,"4,962.50",ESCALATE: Review Bottleneck
+Texas School District 6,NSLP,CE-9006,ORG-1006,Approved,902,"3,833.50",0,0,"3,794.85",38.65,FLAG: Payment Shortfall
+Texas School District 7,NSLP,CE-9007,ORG-1007,Approved,2415,"10,263.75",0,0,"10,232.53",31.22,FLAG: Payment Shortfall
+Texas School District 15,NSLP,CE-9015,ORG-1015,Approved,522,"2,218.50",0,0,"2,180.34",38.16,FLAG: Payment Shortfall
+Texas School District 21,NSLP,CE-9021,ORG-1021,Approved,2386,"10,140.50",0,0,"10,012.43",128.07,FLAG: Payment Shortfall
+Texas School District 31,NSLP,CE-9031,ORG-1031,Approved,1133,"4,815.25","1,712.75",0,"4,760.40",54.85,FLAG: Payment Shortfall
+Texas School District 35,NSLP,CE-9035,ORG-1035,Approved,2580,"10,965",0,0,"10,880.17",84.83,FLAG: Payment Shortfall
+Texas School District 37,NSLP,CE-9037,ORG-1037,Approved,3380,"14,365",0,0,"14,173.73",191.27,FLAG: Payment Shortfall
+Texas School District 59,NSLP,CE-9059,ORG-1059,Approved,616,"2,618",0,0,"2,587.27",30.73,FLAG: Payment Shortfall
+Texas School District 67,NSLP,CE-9067,ORG-1067,Approved,670,"2,847.50",0,0,"2,827.84",19.66,FLAG: Payment Shortfall
+Texas School District 72,NSLP,CE-9072,ORG-1072,Approved,557,"2,367.25",0,0,"2,330.23",37.02,FLAG: Payment Shortfall
+Texas School District 74,NSLP,CE-9074,ORG-1074,Approved,2932,"12,461",833,0,"12,405.78",55.22,FLAG: Payment Shortfall
+Texas School District 82,NSLP,CE-9082,ORG-1082,Approved,1213,"5,155.25",0,0,"5,117.99",37.26,FLAG: Payment Shortfall
+Texas School District 99,NSLP,CE-9099,ORG-1099,Approved,3562,"15,138.50",0,0,"15,077.97",60.53,FLAG: Payment Shortfall
+Texas School District 2,NSLP,CE-9002,ORG-1002,Pending Review,3649,"15,508.25",0,"15,508.25",0,"15,508.25",ESCALATE: Review Bottleneck
+Texas School District 30,NSLP,CE-9030,ORG-1030,Pending Review,3784,"16,082",0,"16,082",0,"16,082",ESCALATE: Review Bottleneck
+Texas School District 38,NSLP,CE-9038,ORG-1038,Pending Review,419,"1,780.75",0,"1,780.75",0,"1,780.75",ESCALATE: Review Bottleneck
+Texas School District 57,NSLP,CE-9057,ORG-1057,Pending Review,2210,"9,392.50",0,"9,392.50",0,"9,392.50",ESCALATE: Review Bottleneck
+Texas School District 62,NSLP,CE-9062,ORG-1062,Pending Review,2514,"10,684.50","1,266.50","10,684.50",0,"10,684.50",ESCALATE: Review Bottleneck
+Texas School District 63,NSLP,CE-9063,ORG-1063,Pending Review,1066,"4,530.50",0,"4,530.50",0,"4,530.50",ESCALATE: Review Bottleneck
+Texas School District 87,NSLP,CE-9087,ORG-1087,Pending Review,1875,"7,968.75",0,"7,968.75",0,"7,968.75",ESCALATE: Review Bottleneck
+Texas School District 9,SBP,CE-9009,ORG-1009,Approved,1319,"3,297.50",0,0,"3,275.23",22.27,FLAG: Payment Shortfall
+Texas School District 22,SBP,CE-9022,ORG-1022,Approved,4313,"10,782.50",0,0,"10,751.57",30.93,FLAG: Payment Shortfall
+Texas School District 27,SBP,CE-9027,ORG-1027,Approved,2817,"7,042.50",0,0,"7,023.47",19.03,FLAG: Payment Shortfall
+Texas School District 33,SBP,CE-9033,ORG-1033,Approved,1107,"2,767.50",0,0,"2,743.89",23.61,FLAG: Payment Shortfall
+Texas School District 34,SBP,CE-9034,ORG-1034,Approved,751,"1,877.50",0,0,"1,863.40",14.1,FLAG: Payment Shortfall
+Texas School District 48,SBP,CE-9048,ORG-1048,Approved,2236,"5,590",0,0,"5,537.40",52.6,FLAG: Payment Shortfall
+Texas School District 49,SBP,CE-9049,ORG-1049,Approved,1113,"2,782.50",0,0,"2,764.55",17.95,FLAG: Payment Shortfall
+Texas School District 51,SBP,CE-9051,ORG-1051,Approved,1914,"4,785",0,0,"4,761.60",23.4,FLAG: Payment Shortfall
+Texas School District 69,SBP,CE-9069,ORG-1069,Approved,2582,"6,455",0,0,"6,353.37",101.63,FLAG: Payment Shortfall
+Texas School District 73,SBP,CE-9073,ORG-1073,Approved,3351,"8,377.50",0,0,"8,300.13",77.37,FLAG: Payment Shortfall
+Texas School District 75,SBP,CE-9075,ORG-1075,Approved,2664,"6,660",0,0,"6,549.57",110.43,FLAG: Payment Shortfall
+Texas School District 86,SBP,CE-9086,ORG-1086,Approved,635,"1,587.50",0,0,"1,555.86",31.64,FLAG: Payment Shortfall
+Texas School District 92,SBP,CE-9092,ORG-1092,Approved,910,"2,275",0,0,"2,253.77",21.23,FLAG: Payment Shortfall
+Texas School District 93,SBP,CE-9093,ORG-1093,Approved,2789,"6,972.50",0,0,"6,904.05",68.45,FLAG: Payment Shortfall
+Texas School District 94,SBP,CE-9094,ORG-1094,Approved,2308,"5,770",0,0,"5,748.19",21.81,FLAG: Payment Shortfall
+Texas School District 95,SBP,CE-9095,ORG-1095,Approved,905,"2,262.50",0,0,"2,225.32",37.18,FLAG: Payment Shortfall
+Texas School District 96,SBP,CE-9096,ORG-1096,Approved,1642,"4,105",0,0,"4,083.76",21.24,FLAG: Payment Shortfall
+Texas School District 98,SBP,CE-9098,ORG-1098,Approved,3238,"8,095","1,090",0,"8,005.86",89.14,FLAG: Payment Shortfall
+Texas School District 89,SBP,CE-9089,ORG-1089,Denied,550,"1,375",0,0,0,"1,375",Reconciled
+Texas School District 20,SBP,CE-9020,ORG-1020,Pending Review,842,"2,105",0,"2,105",0,"2,105",ESCALATE: Review Bottleneck
+Texas School District 25,SBP,CE-9025,ORG-1025,Pending Review,2528,"6,320",0,"6,320",0,"6,320",ESCALATE: Review Bottleneck
+Texas School District 26,SBP,CE-9026,ORG-1026,Pending Review,907,"2,267.50",0,"2,267.50",0,"2,267.50",ESCALATE: Review Bottleneck
+Texas School District 42,SBP,CE-9042,ORG-1042,Pending Review,1953,"4,882.50",0,"4,882.50",0,"4,882.50",ESCALATE: Review Bottleneck
+Texas School District 65,SBP,CE-9065,ORG-1065,Pending Review,3345,"8,362.50",0,"8,362.50",0,"8,362.50",ESCALATE: Review Bottleneck
+Texas School District 70,SBP,CE-9070,ORG-1070,Pending Review,931,"2,327.50",0,"2,327.50",0,"2,327.50",ESCALATE: Review Bottleneck
+Texas School District 71,SBP,CE-9071,ORG-1071,Pending Review,627,"1,567.50",0,"1,567.50",0,"1,567.50",ESCALATE: Review Bottleneck
+Texas School District 14,SFSP,CE-9014,ORG-1014,Approved,3461,"8,652.50",0,0,"8,527.21",125.29,FLAG: Payment Shortfall
+Texas School District 16,SFSP,CE-9016,ORG-1016,Approved,2809,"7,022.50",0,0,"6,960.05",62.45,FLAG: Payment Shortfall
+Texas School District 18,SFSP,CE-9018,ORG-1018,Approved,1249,"3,122.50",0,0,"3,070.91",51.59,FLAG: Payment Shortfall
+Texas School District 28,SFSP,CE-9028,ORG-1028,Approved,1937,"4,842.50",0,0,"4,777.42",65.08,FLAG: Payment Shortfall
+Texas School District 29,SFSP,CE-9029,ORG-1029,Approved,2883,"7,207.50",0,0,"7,142.64",64.86,FLAG: Payment Shortfall
+Texas School District 32,SFSP,CE-9032,ORG-1032,Approved,1690,"4,225",0,0,"4,184.84",40.16,FLAG: Payment Shortfall
+Texas School District 43,SFSP,CE-9043,ORG-1043,Approved,2044,"5,110",0,0,"5,098.74",11.26,FLAG: Payment Shortfall
+Texas School District 45,SFSP,CE-9045,ORG-1045,Approved,2362,"5,905",0,0,"5,845.57",59.43,FLAG: Payment Shortfall
+Texas School District 46,SFSP,CE-9046,ORG-1046,Approved,3196,"7,990",0,0,"7,866.37",123.63,FLAG: Payment Shortfall
+Texas School District 53,SFSP,CE-9053,ORG-1053,Approved,1254,"3,135",0,0,"3,114.06",20.94,FLAG: Payment Shortfall
+Texas School District 55,SFSP,CE-9055,ORG-1055,Approved,3465,"8,662.50",0,0,"8,529.23",133.27,FLAG: Payment Shortfall
+Texas School District 56,SFSP,CE-9056,ORG-1056,Approved,437,"1,092.50",0,0,"1,078.28",14.22,FLAG: Payment Shortfall
+Texas School District 79,SFSP,CE-9079,ORG-1079,Approved,3533,"8,832.50",0,0,"8,818.87",13.63,FLAG: Payment Shortfall
+Texas School District 81,SFSP,CE-9081,ORG-1081,Approved,4122,"10,305",0,0,"10,102.40",202.6,FLAG: Payment Shortfall
+Texas School District 83,SFSP,CE-9083,ORG-1083,Approved,1827,"4,567.50",0,0,"4,562.75",4.75,FLAG: Payment Shortfall
+Texas School District 88,SFSP,CE-9088,ORG-1088,Approved,2747,"6,867.50",0,0,"6,801.41",66.09,FLAG: Payment Shortfall
+Texas School District 91,SFSP,CE-9091,ORG-1091,Approved,2040,"5,100",0,0,"5,061.10",38.9,FLAG: Payment Shortfall
+Texas School District 97,SFSP,CE-9097,ORG-1097,Approved,503,"1,257.50",0,0,"1,252.92",4.58,FLAG: Payment Shortfall
+Texas School District 90,SFSP,CE-9090,ORG-1090,Denied,4082,"10,205",0,0,0,"10,205",Reconciled
+Texas School District 1,SFSP,CE-9001,ORG-1001,Pending Review,483,"1,207.50",0,"1,207.50",0,"1,207.50",ESCALATE: Review Bottleneck
+Texas School District 5,SFSP,CE-9005,ORG-1005,Pending Review,3844,"9,610",0,"9,610",0,"9,610",ESCALATE: Review Bottleneck
+Texas School District 17,SFSP,CE-9017,ORG-1017,Pending Review,949,"2,372.50",0,"2,372.50",0,"2,372.50",ESCALATE: Review Bottleneck
+Texas School District 23,SFSP,CE-9023,ORG-1023,Pending Review,727,"1,817.50",0,"1,817.50",0,"1,817.50",ESCALATE: Review Bottleneck
+Texas School District 24,SFSP,CE-9024,ORG-1024,Pending Review,3375,"8,437.50",0,"8,437.50",0,"8,437.50",ESCALATE: Review Bottleneck
+Texas School District 36,SFSP,CE-9036,ORG-1036,Pending Review,1396,"3,490",0,"3,490",0,"3,490",ESCALATE: Review Bottleneck
+Texas School District 44,SFSP,CE-9044,ORG-1044,Pending Review,3299,"8,247.50",0,"8,247.50",0,"8,247.50",ESCALATE: Review Bottleneck
+Texas School District 66,SFSP,CE-9066,ORG-1066,Pending Review,3730,"9,325",0,"9,325",0,"9,325",ESCALATE: Review Bottleneck
+Texas School District 68,SFSP,CE-9068,ORG-1068,Pending Review,641,"1,602.50",0,"1,602.50",0,"1,602.50",ESCALATE: Review Bottleneck
+Texas School District 76,SFSP,CE-9076,ORG-1076,Pending Review,3600,"9,000",0,"9,000",0,"9,000",ESCALATE: Review Bottleneck
+Texas School District 77,SFSP,CE-9077,ORG-1077,Pending Review,2892,"7,230",0,"7,230",0,"7,230",ESCALATE: Review Bottleneck
